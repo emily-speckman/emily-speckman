@@ -1,5 +1,9 @@
-## Hi there 👋
 
+
+## Hello I am Emily (she/her)!
+
+- I am currently a graduate student at Northern Arizona University
+- I can be reached at ees372@nau.edu
 <!--
 **emily-speckman/emily-speckman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
